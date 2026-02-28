@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harish-1828/leet-code/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Harish-1828/leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Harish-1828/leet-code/tree/master/0263-ugly-number) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 ## Rolling Hash
 |  |
 | ------- |
