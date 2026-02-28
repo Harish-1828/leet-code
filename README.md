@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harish-1828/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harish-1828/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harish-1828/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Tree
 |  |
