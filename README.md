@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
