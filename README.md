@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harish-1828/leet-code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Harish-1828/leet-code/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 ## Rolling Hash
 |  |
