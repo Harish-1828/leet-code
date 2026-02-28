@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 ## Matrix
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
