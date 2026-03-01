@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harish-1828/leet-code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Harish-1828/leet-code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harish-1828/leet-code/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harish-1828/leet-code/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Harish-1828/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Harish-1828/leet-code/tree/master/0258-add-digits) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
 ## Hash Table
