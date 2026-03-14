@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harish-1828/leet-code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harish-1828/leet-code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harish-1828/leet-code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Harish-1828/leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
