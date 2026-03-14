@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Harish-1828/leet-code/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harish-1828/leet-code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 ## Matrix
