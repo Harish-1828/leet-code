@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harish-1828/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harish-1828/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Harish-1828/leet-code/tree/master/0278-first-bad-version) |
+| [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
