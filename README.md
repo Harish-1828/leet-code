@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harish-1828/leet-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
