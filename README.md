@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harish-1828/leet-code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Harish-1828/leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harish-1828/leet-code/tree/master/0119-pascals-triangle-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
