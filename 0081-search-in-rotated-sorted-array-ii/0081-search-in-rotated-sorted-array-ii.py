@@ -18,5 +18,4 @@ class Solution:
                     st = mid + 1
                 else:
                     end = mid - 1
-
         return False
