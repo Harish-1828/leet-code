@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish-1828/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-1828/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -282,4 +285,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Harish-1828/leet-code/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/1095-find-in-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
