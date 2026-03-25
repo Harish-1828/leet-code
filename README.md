@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Harish-1828/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-1828/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 ## Recursion
