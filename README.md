@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Harish-1828/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish-1828/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harish-1828/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harish-1828/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [0868-binary-gap](https://github.com/Harish-1828/leet-code/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Harish-1828/leet-code/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
@@ -326,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harish-1828/leet-code/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
