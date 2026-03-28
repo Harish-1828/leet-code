@@ -2,7 +2,8 @@ class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         m=len(obstacleGrid)
         n=len(obstacleGrid[0])
-      
+        if obstacleGrid[m-1][n-1]==1:
+            return 0
         dp={}
         def start(x,y):
             if x>=m or y>=n:
