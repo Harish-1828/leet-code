@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harish-1828/leet-code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Harish-1828/leet-code/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Harish-1828/leet-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Harish-1828/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish-1828/leet-code/tree/master/0069-sqrtx) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harish-1828/leet-code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Harish-1828/leet-code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harish-1828/leet-code/tree/master/0119-pascals-triangle-ii) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harish-1828/leet-code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
