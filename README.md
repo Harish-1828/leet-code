@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harish-1828/leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Harish-1828/leet-code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Harish-1828/leet-code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Harish-1828/leet-code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Harish-1828/leet-code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harish-1828/leet-code/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harish-1828/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
