@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Harish-1828/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harish-1828/leet-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
