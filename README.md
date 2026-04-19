@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harish-1828/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harish-1828/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harish-1828/leet-code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 ## Matrix
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harish-1828/leet-code/tree/master/0062-unique-paths) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
