@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harish-1828/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harish-1828/leet-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harish-1828/leet-code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 ## Number Theory
 |  |
