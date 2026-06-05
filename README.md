@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harish-1828/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harish-1828/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [0868-binary-gap](https://github.com/Harish-1828/leet-code/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Harish-1828/leet-code/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harish-1828/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
