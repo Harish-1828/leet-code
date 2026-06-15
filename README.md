@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish-1828/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
 ## Rolling Hash
 |  |
@@ -377,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harish-1828/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harish-1828/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish-1828/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
