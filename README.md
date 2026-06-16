@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish-1828/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harish-1828/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harish-1828/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harish-1828/leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Harish-1828/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harish-1828/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish-1828/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -388,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Harish-1828/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harish-1828/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Harish-1828/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harish-1828/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish-1828/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
