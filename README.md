@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Harish-1828/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Harish-1828/leet-code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Harish-1828/leet-code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Harish-1828/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Harish-1828/leet-code/tree/master/0507-perfect-number) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Harish-1828/leet-code/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Harish-1828/leet-code/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
 ## Memoization
 |  |
