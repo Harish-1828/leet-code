@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3280-convert-date-to-binary](https://github.com/Harish-1828/leet-code/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3516-find-closest-person](https://github.com/Harish-1828/leet-code/tree/master/3516-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
