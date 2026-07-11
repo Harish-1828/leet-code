@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Harish-1828/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harish-1828/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harish-1828/leet-code/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Harish-1828/leet-code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Harish-1828/leet-code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harish-1828/leet-code/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Harish-1828/leet-code/tree/master/0937-reorder-data-in-log-files) |
