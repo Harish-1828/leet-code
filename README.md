@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Harish-1828/leet-code/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Harish-1828/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harish-1828/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish-1828/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harish-1828/leet-code/tree/master/0027-remove-element) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harish-1828/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harish-1828/leet-code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Harish-1828/leet-code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Harish-1828/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harish-1828/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish-1828/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harish-1828/leet-code/tree/master/0027-remove-element) |
