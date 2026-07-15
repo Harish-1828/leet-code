@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Harish-1828/leet-code/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Harish-1828/leet-code/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Harish-1828/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Harish-1828/leet-code/tree/master/0258-add-digits) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Harish-1828/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
