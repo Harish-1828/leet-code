@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harish-1828/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish-1828/leet-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harish-1828/leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Harish-1828/leet-code/tree/master/0231-power-of-two) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Harish-1828/leet-code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Harish-1828/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harish-1828/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
