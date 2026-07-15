@@ -1,15 +1,6 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = [-1] * (n + 1)
-
-        def fn(i):
-            if i <= 1:
-                return i
-
-            if dp[i] != -1:
-                return dp[i]
-
-            dp[i] = fn(i - 1) + fn(i - 2)
-            return dp[i]
-
-        return fn(n)
+        dp={0:0,1:1}
+        for i in range(2,n+1):
+            dp[i]=dp[i-1]+dp[i-2]
+        return dp[n]
