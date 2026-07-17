@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harish-1828/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Harish-1828/leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harish-1828/leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harish-1828/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harish-1828/leet-code/tree/master/0018-4sum) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harish-1828/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Harish-1828/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harish-1828/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harish-1828/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish-1828/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harish-1828/leet-code/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
