@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harish-1828/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Harish-1828/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/Harish-1828/leet-code/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harish-1828/leet-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Harish-1828/leet-code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harish-1828/leet-code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
