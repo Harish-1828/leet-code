@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Harish-1828/leet-code/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harish-1828/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Harish-1828/leet-code/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Harish-1828/leet-code/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-1828/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harish-1828/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harish-1828/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Harish-1828/leet-code/tree/master/2574-left-and-right-sum-differences) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harish-1828/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harish-1828/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Harish-1828/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harish-1828/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harish-1828/leet-code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-1828/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish-1828/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harish-1828/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-1828/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Harish-1828/leet-code/tree/master/0278-first-bad-version) |
