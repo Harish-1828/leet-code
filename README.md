@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Harish-1828/leet-code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harish-1828/leet-code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Harish-1828/leet-code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Harish-1828/leet-code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Harish-1828/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harish-1828/leet-code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Harish-1828/leet-code/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Harish-1828/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-1828/leet-code/tree/master/0073-set-matrix-zeroes) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harish-1828/leet-code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harish-1828/leet-code/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
