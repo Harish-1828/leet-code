@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Harish-1828/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Harish-1828/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Harish-1828/leet-code/tree/master/0394-decode-string) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harish-1828/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Harish-1828/leet-code/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Harish-1828/leet-code/tree/master/0394-decode-string) |
 ## Interactive
 |  |
 | ------- |
