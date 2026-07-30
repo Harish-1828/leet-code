@@ -5,7 +5,7 @@ class Solution:
         """
         i=1
         n=len(nums)
-
+        k=k%n
         while i<=k:
             ele=nums.pop()
             nums.insert(0,ele)
