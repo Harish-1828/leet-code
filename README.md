@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harish-1828/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harish-1828/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3280-convert-date-to-binary](https://github.com/Harish-1828/leet-code/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2299-strong-password-checker-ii](https://github.com/Harish-1828/leet-code/tree/master/2299-strong-password-checker-ii) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harish-1828/leet-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harish-1828/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3280-convert-date-to-binary](https://github.com/Harish-1828/leet-code/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harish-1828/leet-code/tree/master/3498-reverse-degree-of-a-string) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harish-1828/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 ## Number Theory
 |  |
