@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Harish-1828/leet-code/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Harish-1828/leet-code/tree/master/0937-reorder-data-in-log-files) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harish-1828/leet-code/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-1828/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harish-1828/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/Harish-1828/leet-code/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harish-1828/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Harish-1828/leet-code/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harish-1828/leet-code/tree/master/1227-airplane-seat-assignment-probability) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harish-1828/leet-code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Harish-1828/leet-code/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/Harish-1828/leet-code/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
