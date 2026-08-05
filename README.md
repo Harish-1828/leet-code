@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harish-1828/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Harish-1828/leet-code/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Harish-1828/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harish-1828/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harish-1828/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Harish-1828/leet-code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Harish-1828/leet-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harish-1828/leet-code/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Harish-1828/leet-code/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/Harish-1828/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Harish-1828/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
