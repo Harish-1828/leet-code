@@ -13,13 +13,11 @@ class Solution {
         int res;
         System.out.print(fn(23));
         int i=n;
-       while(true)
+       while(fn(i)%t!=0)
         {
-            if(fn(i)%t==0)
-            {
-                return i;
-            }
+           
             i+=1;
         }
+        return i;
     }
 }
