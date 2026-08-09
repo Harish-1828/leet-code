@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Harish-1828/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harish-1828/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Harish-1828/leet-code/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Harish-1828/leet-code/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Harish-1828/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harish-1828/leet-code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
