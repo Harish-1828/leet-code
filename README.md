@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-1828/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harish-1828/leet-code/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Harish-1828/leet-code/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Harish-1828/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harish-1828/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-1828/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-1828/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Harish-1828/leet-code/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Harish-1828/leet-code/tree/master/0937-reorder-data-in-log-files) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Harish-1828/leet-code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-1828/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish-1828/leet-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Harish-1828/leet-code/tree/master/2396-strictly-palindromic-number) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harish-1828/leet-code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harish-1828/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -517,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish-1828/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
