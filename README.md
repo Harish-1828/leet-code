@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Harish-1828/leet-code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Harish-1828/leet-code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Harish-1828/leet-code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Harish-1828/leet-code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Harish-1828/leet-code/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
 ## Brainteaser
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Harish-1828/leet-code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harish-1828/leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harish-1828/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Harish-1828/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harish-1828/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
