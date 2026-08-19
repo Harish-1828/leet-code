@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harish-1828/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Harish-1828/leet-code/tree/master/1572-matrix-diagonal-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Harish-1828/leet-code/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harish-1828/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harish-1828/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harish-1828/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
+| [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2365-task-scheduler-ii](https://github.com/Harish-1828/leet-code/tree/master/2365-task-scheduler-ii) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harish-1828/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harish-1828/leet-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
