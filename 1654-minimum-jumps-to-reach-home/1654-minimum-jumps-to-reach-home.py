@@ -1,14 +1,10 @@
 class Solution:
 
     def minimumJumps(self, forbidden: List[int], a: int, b: int, x: int) -> int:
-
         arr = set(forbidden)
         counts = [9999999]
-
         visited = set()
-
         limit = max(max(forbidden, default=0), x) + a + b
-
         def fn(idx, state, count):
             if idx < 0 or idx > limit:
                 return
@@ -25,8 +21,6 @@ class Solution:
             if state and idx - b >= 0 and idx - b not in arr:
                 fn(idx - b, False, count + 1)
         fn(0, True, 0)
-
         if counts[0] == 9999999:
             return -1
-
         return counts[0]
