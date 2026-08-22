@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Harish-1828/leet-code/tree/master/1572-matrix-diagonal-sum) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Harish-1828/leet-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harish-1828/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Harish-1828/leet-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1980-find-unique-binary-string](https://github.com/Harish-1828/leet-code/tree/master/1980-find-unique-binary-string) |
 | [2365-task-scheduler-ii](https://github.com/Harish-1828/leet-code/tree/master/2365-task-scheduler-ii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harish-1828/leet-code/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Harish-1828/leet-code/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Brainteaser
 |  |
 | ------- |
