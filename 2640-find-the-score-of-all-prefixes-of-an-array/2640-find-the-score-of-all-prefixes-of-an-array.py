@@ -7,7 +7,6 @@ class Solution:
         res=[]
         for i in range(1,len(nums)):
             prefix[i]=max(prefix[i-1],nums[i])
-        print(res)
         res=[]
         ans=0
         for i in range(len(nums)):
