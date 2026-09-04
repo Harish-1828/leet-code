@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harish-1828/leet-code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [4020-elevator-requests-i](https://github.com/Harish-1828/leet-code/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Harish-1828/leet-code/tree/master/0867-transpose-matrix) |
 | [2365-task-scheduler-ii](https://github.com/Harish-1828/leet-code/tree/master/2365-task-scheduler-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harish-1828/leet-code/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/Harish-1828/leet-code/tree/master/4020-elevator-requests-i) |
 ## Counting
 |  |
 | ------- |
