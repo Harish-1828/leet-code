@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harish-1828/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harish-1828/leet-code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Harish-1828/leet-code/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1539-kth-missing-positive-number](https://github.com/Harish-1828/leet-code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Harish-1828/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Harish-1828/leet-code/tree/master/1654-minimum-jumps-to-reach-home) |
