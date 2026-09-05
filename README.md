@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/Harish-1828/leet-code/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harish-1828/leet-code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3904-smallest-stable-index-ii](https://github.com/Harish-1828/leet-code/tree/master/3904-smallest-stable-index-ii) |
 | [4020-elevator-requests-i](https://github.com/Harish-1828/leet-code/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Harish-1828/leet-code/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harish-1828/leet-code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harish-1828/leet-code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3904-smallest-stable-index-ii](https://github.com/Harish-1828/leet-code/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
