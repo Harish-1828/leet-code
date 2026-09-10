@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish-1828/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish-1828/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish-1828/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
