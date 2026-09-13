@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish-1828/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Harish-1828/leet-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Harish-1828/leet-code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish-1828/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Harish-1828/leet-code/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Harish-1828/leet-code/tree/master/0216-combination-sum-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harish-1828/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish-1828/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish-1828/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Harish-1828/leet-code/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Harish-1828/leet-code/tree/master/0498-diagonal-traverse) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Harish-1828/leet-code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish-1828/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Harish-1828/leet-code/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harish-1828/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Harish-1828/leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harish-1828/leet-code/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Harish-1828/leet-code/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -602,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
