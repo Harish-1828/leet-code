@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harish-1828/leet-code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Harish-1828/leet-code/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-1828/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harish-1828/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Harish-1828/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish-1828/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Harish-1828/leet-code/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harish-1828/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/Harish-1828/leet-code/tree/master/1095-find-in-mountain-array) |
 ## Heap (Priority Queue)
 |  |
