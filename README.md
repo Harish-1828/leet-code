@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harish-1828/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harish-1828/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Harish-1828/leet-code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish-1828/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0746-min-cost-climbing-stairs) |
 | [0810-chalkboard-xor-game](https://github.com/Harish-1828/leet-code/tree/master/0810-chalkboard-xor-game) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Harish-1828/leet-code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Harish-1828/leet-code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
 | ------- |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harish-1828/leet-code/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
