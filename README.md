@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harish-1828/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Harish-1828/leet-code/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3280-convert-date-to-binary](https://github.com/Harish-1828/leet-code/tree/master/3280-convert-date-to-binary) |
+| [3407-substring-matching-pattern](https://github.com/Harish-1828/leet-code/tree/master/3407-substring-matching-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harish-1828/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -620,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Harish-1828/leet-code/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
