@@ -1,19 +1,20 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        open=0 
-        close=0
-        res=[]
-        path=[]
+        l=[]
+        r=[]
         def back(open,close):
-            if open==close:
-                res.append(path[:])
+            if open==close==n:
+                print(l)
+                r.append("".join(l))
                 return
-            if open==n or close==n:
-                return
-            path.append('(')
-            back(open+1,close)
-            path.append(')')
-            back(open,close+1)
-            path.pop()
-
-        
+            if open<n:
+                l.append('(')
+                back(open+1,close)
+                l.pop()
+            if close<open:
+                l.append(')')
+                back(open,close+1)
+                l.pop()
+            return
+        back(0,0) 
+        return r
