@@ -625,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/Harish-1828/leet-code/tree/master/3407-substring-matching-pattern) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
