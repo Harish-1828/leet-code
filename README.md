@@ -632,5 +632,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Harish-1828/leet-code/tree/master/0180-consecutive-numbers) |
 | [1661-average-time-of-process-per-machine](https://github.com/Harish-1828/leet-code/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
