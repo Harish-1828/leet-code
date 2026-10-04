@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Harish-1828/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Harish-1828/leet-code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harish-1828/leet-code/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Harish-1828/leet-code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Harish-1828/leet-code/tree/master/0940-distinct-subsequences-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harish-1828/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/Harish-1828/leet-code/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish-1828/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/Harish-1828/leet-code/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/Harish-1828/leet-code/tree/master/0940-distinct-subsequences-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harish-1828/leet-code/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Harish-1828/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Harish-1828/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harish-1828/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harish-1828/leet-code/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Harish-1828/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Harish-1828/leet-code/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Harish-1828/leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
 ## Interactive
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
