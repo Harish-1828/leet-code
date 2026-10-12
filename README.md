@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Harish-1828/leet-code/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/Harish-1828/leet-code/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/Harish-1828/leet-code/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Harish-1828/leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harish-1828/leet-code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1417-reformat-the-string](https://github.com/Harish-1828/leet-code/tree/master/1417-reformat-the-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harish-1828/leet-code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Harish-1828/leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harish-1828/leet-code/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Harish-1828/leet-code/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
 |  |
 | ------- |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harish-1828/leet-code/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harish-1828/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Harish-1828/leet-code/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
 | ------- |
