@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harish-1828/leet-code/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish-1828/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Harish-1828/leet-code/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harish-1828/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Harish-1828/leet-code/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harish-1828/leet-code/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Harish-1828/leet-code/tree/master/0498-diagonal-traverse) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Harish-1828/leet-code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Harish-1828/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harish-1828/leet-code/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harish-1828/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Harish-1828/leet-code/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Harish-1828/leet-code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Harish-1828/leet-code/tree/master/0509-fibonacci-number) |
